@@ -1,0 +1,29 @@
+BASE_URL       = "http://localhost:3000/api/v1"
+ADMIN_EMAIL    = ""
+ADMIN_PASSWORD = ""
+
+BG        = "#fdf6f0"
+SIDEBAR   = "#1c0e06"
+SB_HOV    = "#3a1e0c"
+SB_ACT    = "#4e2a12"
+CARD      = "#ffffff"
+ACCENT    = "#b5341c"
+ACCENT_H  = "#8f2816"
+ACCENT2   = "#f5e6d4"
+BORDER    = "#e8ddd2"
+TEXT      = "#1c0e06"
+TEXT2     = "#5a3d2b"
+MUTED     = "#9c8472"
+WHITE     = "#ffffff"
+GREEN     = "#27734e"
+GREEN_BG  = "#edf7f1"
+RED_BG    = "#fdecea"
+ORANGE    = "#c87722"
+ORANGE_BG = "#fef3e2"
+
+FONT    = ("Segoe UI", 10)
+FONT_B  = ("Segoe UI", 10, "bold")
+FONT_H  = ("Segoe UI", 15, "bold")
+FONT_SH = ("Segoe UI", 11, "bold")
+FONT_SM = ("Segoe UI", 9)
+FONT_XS = ("Segoe UI", 8)
