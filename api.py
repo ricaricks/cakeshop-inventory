@@ -36,6 +36,8 @@ class ApiClient:
         r = self.session.patch(f"{BASE_URL}{path}", json=body, timeout=8)
         return r.json()
 
+
+#nigga
     def delete(self, path):
         r = self.session.delete(f"{BASE_URL}{path}", timeout=8)
         return r.json() if r.content else {"success": r.status_code < 300}
